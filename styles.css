@@ -140,9 +140,10 @@ h1 {
 }
 .ip-info {
 	display: grid;
-	grid-template-columns: 1fr ;
+	grid-template-columns: 1fr;
 	grid-template-rows: auto;
 	gap: 1rem;
+	gap: 0.5rem;
 }
 
 .info-card {
